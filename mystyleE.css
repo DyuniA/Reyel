@@ -1,0 +1,66 @@
+ul {
+ list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+
+div{
+	
+	width:800px;
+	margin: auto;
+	font-family: Arial;
+	background-color: rgba(255,255,255,0.9);
+	padding-top:10px;
+	padding-left:50px;
+	padding-right:50px;
+	
+	
+}
+
+body{
+	
+		background-image: url('phil_flag.gif');
+		background-size:cover;
+		background-repeat: no-repeat;
+		background-position: center;
+		background-attachment: fixed;
+		
+}
+
+.six{
+	
+	color: #888888;
+	font-family: Copperplate;
+	
+}
+
+.anim{
+	font-family:Papyrus;
+	
+}
+
+hr{
+	
+	border:none;
+	height:4px;
+	background-color: #888888;
+	border-radius: 5px;
+	
+}

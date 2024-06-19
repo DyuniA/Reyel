@@ -1,0 +1,116 @@
+ul {
+ list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+
+div{
+	
+	width:800px;
+	margin: auto;
+	font-family: Arial;
+	background-color: rgba(255,255,255,0.9);
+	padding-top:10px;
+	padding-left:50px;
+	padding-right:50px;
+	
+	
+}
+
+body{
+	
+		background-image: url('phil_flag.gif');
+		background-size:cover;
+		background-repeat: no-repeat;
+		background-position: center;
+		background-attachment: fixed;
+		
+}
+
+.img_one{
+	
+	float:left;
+	width:380px;
+	height: 500px;
+	border-style:double;
+	border-color: red;
+	border-width: 5px;
+	
+}
+
+.one{
+	
+	color: red;
+	font-family: Copperplate;
+	
+}
+
+.home{
+	
+	color: red;
+	font-family: Times New Roman;
+}
+
+.about{
+	
+	color: orange;
+	font-family: Times New Roman;
+	
+}
+
+.fav{
+	
+	color: brown;
+	font-family: Times New Roman;
+	
+}
+
+.achieve{
+	
+	color: #008800;
+	font-family: Times New Roman;
+	
+}
+
+.goals{
+	
+	color: blue;
+	font-family: Times New Roman;
+	
+}
+
+.games{
+	color:#888888;
+	font-family: Times New Roman;
+}
+
+.isa{
+	font-family: Papyrus
+	
+}
+
+hr{
+	
+	border:none;
+	height:4px;
+	background-color: red;
+	border-radius: 5px;
+	
+}
